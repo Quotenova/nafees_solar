@@ -920,3 +920,17 @@ transition:.4s;
 .hero-image img:hover{
 transform:scale(1.04);
 }
+.hero-image{
+    flex:1;
+    display:flex;
+    justify-content:center;
+}
+
+.hero-image img{
+    width:100%;
+    max-width:550px;
+    height:420px;
+    object-fit:cover;
+    border-radius:20px;
+    box-shadow:0 15px 35px rgba(0,0,0,.2);
+}
