@@ -162,9 +162,7 @@ color:#fff;
     align-items:center;
     padding-left:40px;
 }
-.hero-image{
-    animation:float 4s ease-in-out infinite;
-}
+
 
 @keyframes float{
     0%{
