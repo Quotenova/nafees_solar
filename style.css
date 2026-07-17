@@ -105,17 +105,19 @@ font-size:20px;
 .hero-text h1{
     font-size:60px;
     line-height:1.15;
-    color:#0F172A;
+    color:#ffffff;
     margin-bottom:20px;
     font-weight:800;
+    text-shadow:0 3px 12px rgba(0,0,0,.7);
 }
 
 .hero-text p{
-    color:#555
+    color:#f1f5f9;
     font-size:18px;
     line-height:1.8;
     max-width:550px;
     margin-bottom:30px;
+    text-shadow:0 2px 8px rgba(0,0,0,.7);
 }
 
 .hero-buttons{
