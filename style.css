@@ -97,9 +97,10 @@ flex:1;
 }
 
 .hero-text h3{
-color:#2E8B57;
-margin-bottom:10px;
-font-size:20px;
+    color:#7CFC98;
+    margin-bottom:10px;
+    font-size:20px;
+    text-shadow:0 2px 8px rgba(0,0,0,.7);
 }
 
 .hero-text h1{
