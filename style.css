@@ -177,6 +177,7 @@ color:#fff;
     object-fit:contain;
     border-radius:20px;
     box-shadow:0 20px 40px rgba(0,0,0,.18);
+    transition:.4s ease;
 }
 
     * ===== ABOUT SECTION ===== */
