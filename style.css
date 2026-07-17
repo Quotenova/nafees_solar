@@ -153,6 +153,7 @@ color:#fff;
     display:flex;
     justify-content:flex-end;
     align-items:center;
+    padding-left:40px;
 }
 .hero-image{
     animation:float 4s ease-in-out infinite;
