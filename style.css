@@ -893,6 +893,7 @@ display:block;
 .brand-card,
 .info-card{
 transition:all .35s ease;
+    }
 .nav-links a{
 position:relative;
 }
